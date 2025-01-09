@@ -1,3 +1,7 @@
 Salvestama pärast iga küsimust
 Mis on versioonihaldussüsteem?
+
+Versioonihaldussüsteem on tarkvara, mis jälgib ja haldab muudatusi projektis olevates failides. See võimaldab 
+hallata erinevaid versioone, tagada koostöö meeskonnas ja vajadusel tagasi pöörduda varasemate muudatuste juurde.
+
 Kuidas saab Gitis uuendada oma kohalikku haru kaugserveris?
