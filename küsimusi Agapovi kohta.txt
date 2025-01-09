@@ -5,3 +5,5 @@ Käsurida Linuxis on tekstipõhine liides, kus kasutaja saab sisestada käske s�
 Seda tuntakse ka kui terminal või shell.
 
 Kuidas Linuxis teada saada, mis on praegune töökaust?
+
+Linuxis saab praeguse töökausta teada käsklusega: pwd
