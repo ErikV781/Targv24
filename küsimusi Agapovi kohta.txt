@@ -1,3 +1,7 @@
 Salvestama pärast iga küsimus.
 Mis on käsurida Linuxis?
+
+Käsurida Linuxis on tekstipõhine liides, kus kasutaja saab sisestada käske süsteemi juhtimiseks ja hallamiseks. 
+Seda tuntakse ka kui terminal või shell.
+
 Kuidas Linuxis teada saada, mis on praegune töökaust?
