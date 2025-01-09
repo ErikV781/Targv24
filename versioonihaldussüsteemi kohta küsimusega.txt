@@ -3,3 +3,4 @@ Mis on versioonihaldussüsteem?
 Versioonihaldussüsteem (VCS, Version Control System) on tööriist, mis võimaldab hallata ja jälgida failide, koodi või dokumentide muudatusi ajas.
 
 Kuidas saab Gitis uuendada oma kohalikku haru kaugserveris?
+git pull
