@@ -1,0 +1,3 @@
+Salvestama pärast iga küsimust
+Mis on versioonihaldussüsteem?
+Kuidas saab Gitis uuendada oma kohalikku haru kaugserveris?
