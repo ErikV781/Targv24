@@ -1,4 +1,10 @@
  salvestage pärast iga küsimust
 
 Mis on projektijuhtimise eesmärk?
+
+Projektijuhtimise eesmärk on tagada projekti edukas teostamine, tähtaegade ja eelarve piires, rahulolu saavutamine 
+kõigi osapoolte poolt ja kvaliteedi tagamine.
+
 Kes vastutab projekti õnnestumise eest?
+
+
