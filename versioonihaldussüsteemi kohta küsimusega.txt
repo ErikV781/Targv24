@@ -5,3 +5,5 @@ Versioonihaldussüsteem on tarkvara, mis jälgib ja haldab muudatusi projektis o
 hallata erinevaid versioone, tagada koostöö meeskonnas ja vajadusel tagasi pöörduda varasemate muudatuste juurde.
 
 Kuidas saab Gitis uuendada oma kohalikku haru kaugserveris?
+
+Gitis saab oma kohalikku haru uuendada kaugserverist käsklusega: git pull
