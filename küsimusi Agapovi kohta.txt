@@ -1,0 +1,3 @@
+Salvestama pärast iga küsimus.
+Mis on käsurida Linuxis?
+Kuidas Linuxis teada saada, mis on praegune töökaust?
