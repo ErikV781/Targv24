@@ -1,3 +1,6 @@
 Salvestama pärast iga küsimus.
-Mis on käsurida Linuxis?
+
+Mis on käsurida Linuxis? 
+Käsurida (inglise keeles command line interface ehk CLI) Linuxis on tekstipõhine kasutajaliides, mille kaudu saab süsteemile käske sisestada ja nendega operatsioone sooritada.
+
 Kuidas Linuxis teada saada, mis on praegune töökaust?
