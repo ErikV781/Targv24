@@ -7,4 +7,5 @@ kõigi osapoolte poolt ja kvaliteedi tagamine.
 
 Kes vastutab projekti õnnestumise eest?
 
-
+Projekti õnnestumise eest vastutab projektijuht, kes juhib meeskonda, jälgib tähtaegu ja ressursside kasutamist ning 
+suhtleb huvigruppidega.
